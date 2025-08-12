@@ -21,8 +21,7 @@ Uma chave da API do Google Gemini. Você pode obtê-la gratuitamente no Google A
 Instalação
 Clone este repositório para sua máquina local:
 
-git clone https://github.com/SEU-USUARIO/unicar-app.git
-cd unicar-app
+git clone https://github.com/06102019/Scanner-PDF.git
 
 Instale as dependências necessárias:
 
@@ -35,7 +34,7 @@ Abra o arquivo unicar_app.py e substitua "SUA_CHAVE_DE_API_DO_GEMINI" pela sua c
 
 Execute o aplicativo a partir do terminal:
 
-streamlit run unicar_app.py
+streamlit run App_Scanner.py
 
 Uma nova aba será aberta no seu navegador, onde você poderá fazer o upload de um PDF e interagir com a IA.
 
